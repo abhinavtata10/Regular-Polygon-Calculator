@@ -1,1 +1,1 @@
-# Regular-Polygon-Calculator
+# A regular polygon is a polygon with all sides and angles equal. This Python program calculates the properties of a regular polygon based on input provided by the user. The program determines the following properties: number of sides, length of each side, perimeter, area, apothem, and interior angle.
